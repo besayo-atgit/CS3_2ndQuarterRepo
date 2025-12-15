@@ -1,0 +1,11 @@
+* {
+    font-family:'Times New Roman', Times, serif;
+    padding: 5px;
+    background-image: url(bg.gif);
+    background-size: cover;
+    
+    header {
+        height: 500px;
+        background-color:chocolate;
+    }
+}

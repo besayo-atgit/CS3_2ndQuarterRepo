@@ -1,7 +1,7 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: content-box;
-    background: #D8BFD8 url(thistle.jpg) center / cover no-repeat fixed;
+    background: #D8BFD8 url(thiste.jpg) center / cover no-repeat fixed;
 
     header {
         text-align: center;
@@ -15,7 +15,7 @@
         background-color: tomato;
     }
 
-    [id ="main-title"] {
+    #main-title {
         text-transform: uppercase;
         word-spacing: 10px;
         kerning: -3px;
